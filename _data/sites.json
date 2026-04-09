@@ -7001,6 +7001,13 @@
         "domains": ["figma.com"]
     },
     {
+        "name": "Filbleu",
+        "url": "https://www.filbleu.fr/en/contact/faqs/account/how-do-i-delete-my-personal-area",
+        "url_fr": "https://www.filbleu.fr/contact/besoin-daide/espace-perso/comment-supprimer-mon-espace-perso",
+        "difficulty": "easy",
+        "domains": ["filbleu.fr"]
+    },
+    {
         "name": "Filen.io",
         "url": "https://drive.filen.io/#/account/settings",
         "difficulty": "easy",
