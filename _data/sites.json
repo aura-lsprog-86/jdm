@@ -3903,6 +3903,13 @@
         ]
     },
     {
+        "name": "Chromaport",
+        "url": "https://chromaport.com/account",
+        "difficulty": "easy",
+        "notes": "Scroll down to the bottom of the \"Account\" page to the \"Account management\" section and click on \"Delete\"",
+        "domains": ["chromaport.com"]
+    },
+    {
         "name": "Cineplex",
         "url": "https://www.cineplex.com/Global/PrivacyPolicy",
         "difficulty": "hard",
